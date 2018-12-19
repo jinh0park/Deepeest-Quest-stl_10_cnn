@@ -141,5 +141,7 @@ if __name__ == "__main__":
     print(images.dtype)
 
     labels = read_labels(LABEL_PATH)
-    print(labels.shape)
+    print(labels[:50])
+
+
 
