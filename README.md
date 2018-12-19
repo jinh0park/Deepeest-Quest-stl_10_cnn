@@ -15,7 +15,8 @@ TensorFlow v1.12.0
     │  .gitignore
     │  gradcam.ipynb
     │  gradcam_neat.ipynb
-    │  new.md
+    │  prob_a.md
+    │  prob_b.md
     │  quest_final.ipynb
     │  README.md
     │  read_stl10_file.py
